@@ -24,7 +24,7 @@ import com.facebook.drawee.view.SimpleDraweeView;
 
 import java.util.List;
 
-public class StickerPackListAdapter extends RecyclerView.Adapter<StickerPackListItemViewHolder> {
+public class  StickerPackListAdapter extends RecyclerView.Adapter<StickerPackListItemViewHolder> {
     @NonNull
     private List<StickerPack> stickerPacks;
     @NonNull
