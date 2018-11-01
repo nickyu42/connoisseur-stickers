@@ -5,7 +5,7 @@
     {
       "identifier": "1",
       "name": "Wine connoisseurs",
-      "publisher": "Nick",
+      "publisher": "Loli-corp",
       "tray_image_file": "tray.png",
       "publisher_email":"",
       "publisher_website": "",
@@ -29,6 +29,30 @@
         },
         {
           "image_file": "too_good_sticker.webp"
+        },
+        {
+          "image_file": "all_might_sticker.webp"
+        },
+        {
+          "image_file": "araragi_sticker.webp"
+        },
+        {
+          "image_file": "brunsi_sticker.webp"
+        },
+        {
+          "image_file": "mistake_sticker.webp"
+        },
+        {
+          "image_file": "plato_sticker.webp"
+        },
+        {
+          "image_file": "thinker_sticker.webp"
+        },
+        {
+          "image_file": "yui_sticker.webp"
+        },
+        {
+          "image_file": "smug_sticker.webp"
         }
       ]
     }
